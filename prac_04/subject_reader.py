@@ -6,7 +6,7 @@ Data file -> lists program
 FILENAME = "subject_data.txt"
 
 
-def main():# in main step put all def funtion befor def 
+def main():# in main step put all def funtion befor def
     subject_details = get_data()
     print_subject (subject_details)
     #if there is any menu..
