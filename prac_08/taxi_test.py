@@ -2,7 +2,7 @@ from taxi import Taxi
 
 def main():
     #taxi(name,fuel,price per km)
-    taxi = Taxi("Prui 1",100 ,1.23)
+    taxi = Taxi("Prui 1",100)
     #drive drive 40 km
     taxi.drive(40)
     #Print the taxi's detail and current fare
