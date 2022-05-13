@@ -12,5 +12,6 @@ def main():
     print(good_car)
     print(bad_car)
 
+main()
 
 main()
